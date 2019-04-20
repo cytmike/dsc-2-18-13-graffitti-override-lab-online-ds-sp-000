@@ -23,6 +23,6 @@ div#wall div.parent div:last-child div#tag-6:first-child{
   display: none;
 }
 
-#wall #tag-7:first-child:last-child{
+#wall #tag-7.slick:first-child:last-child{
   display: none;
 }
